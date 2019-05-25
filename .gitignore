@@ -1,0 +1,17 @@
+*.class
+*.dll
+*.exe
+*.jar
+*.lst
+*.txt
+*.MF
+*.zip
+*.properties
+CommonAssemblyInfo.cs
+awt/AssemblyInfo.cs
+runtime/AssemblyInfo.cs
+runtime/JniAssemblyInfo.cs
+openjdk/AssemblyInfo.java
+openjdk/java/lang/PropertyConstants.java
+openjdk/tools.gen.rsp
+openjdk/response.txt
